@@ -1,2 +1,8 @@
-# my-japanese-notes
-Markdown files with japanese notes to make it easy for me to learn Japanese
+# My Japanese notes
+
+## Location
+
+Go [here][location].
+
+
+[location]: /location.md
